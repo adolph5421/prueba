@@ -26,7 +26,7 @@ a{
 	flex-flow: column nowrap;
 }
 	.menu{
-		background: black; /*rgba(0,0,0,0.1);*/
+		background:/* black;*/ rgba(0,0,0,0.1);
 		display: flex;
 		flex-flow: row nowrap;
 		height: 60px;
